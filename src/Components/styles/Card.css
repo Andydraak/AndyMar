@@ -1,0 +1,38 @@
+.card {
+    border: none;
+    border-radius: 8px;
+    margin-top: 50px;
+    
+   /* background: url('../../images/circles.png') no-repeat, linear-gradient(to right, #A74CF2, #617BFB);*/
+}
+.andy-User-Info {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+}
+.andy-Card {
+    max-height: 100%;
+    max-width: 800px;
+}
+.andy-Card-Info {
+    padding-left: 0;
+    padding-right: 75px;
+}
+.andy-Card-Info h1{
+    font-size: 23px;
+    color: white;
+}
+.andy-Card-Info h2{
+    font-size: 15px;
+    color: aqua;
+}
+.andy-Card-Info p{
+    font-size: 13px;
+    color: white;
+}
+
+
+img{
+    width: 100px;
+    height: 115px;
+}
